@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard
+# Sales-Performance-Dashboard-MS Excel
 
 Created a sales dashboard in MS Excel using pivot tables and charts.
 
